@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "26a3913c9ce3e711",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fdb0531bfc7d95a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "913df09e9d91aae3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Liminal Core/10. Computer Science/01 - Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Introduction"
+            }
+          },
+          {
+            "id": "73725d250b3f5844",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba84c89376c48e70",
+    "type": "split",
+    "children": [
+      {
+        "id": "867b450474125e33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b45d443910220d8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b4513b8ce5dfd2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c71f3c315efa4ab0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b50b56aeb39875a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2c17867204791e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "822e461ed58b3e3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4 - Liminal Core/10. Computer Science/stack frames.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for stack frames"
+            }
+          },
+          {
+            "id": "6ed2be26cac9de43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4 - Liminal Core/10. Computer Science/stack frames.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from stack frames"
+            }
+          },
+          {
+            "id": "c5d945ec36adb649",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dd2dfb0a93b55e22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4 - Liminal Core/10. Computer Science/stack frames.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of stack frames"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "73725d250b3f5844",
+  "lastOpenFiles": [
+    "4 - Liminal Core/10. Computer Science/abstract data type.md",
+    "4 - Liminal Core/10. Computer Science/01 - Introduction.md",
+    "4 - Liminal Core/10. Computer Science/stack.md",
+    "4 - Liminal Core/10. Computer Science/routines.md",
+    "4 - Liminal Core/10. Computer Science/registry.md",
+    "4 - Liminal Core/10. Computer Science/registries in assembly.md",
+    "4 - Liminal Core/10. Computer Science/kernel.md",
+    "4 - Liminal Core/10. Computer Science/linear data structures.md",
+    "4 - Liminal Core/10. Computer Science/EBP.md",
+    "4 - Liminal Core/10. Computer Science/ESP.md",
+    "4 - Liminal Core/10. Computer Science/cross-compilers.md",
+    "4 - Liminal Core/10. Computer Science/caller and callee.md",
+    "4 - Liminal Core/10. Computer Science/array.md",
+    "4 - Liminal Core/10. Computer Science/stack frames.md",
+    "2 - Tags/assembly.md",
+    "2 - Tags/programming.md",
+    "2 - Tags/data types.md",
+    "2 - Tags/computer science.md",
+    "5 - Templates/Main Note.md",
+    "1 - Rough Notes/Things to look into.md",
+    "5 - Templates",
+    "4 - Liminal Core",
+    "3 - Kategorien",
+    "2 - Tags",
+    "1 - Rough Notes",
+    "4 - Liminal Core/10. Computer Science"
+  ]
+}
