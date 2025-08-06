@@ -167,6 +167,10 @@
   },
   "active": "ed65c7ae8cfcc36d",
   "lastOpenFiles": [
+    "4 - Liminal Core/30. Programming/JavaScript/Requests.md",
+    "4 - Liminal Core/30. Programming/JavaScript/Error Handling.md",
+    "4 - Liminal Core/30. Programming/JavaScript/Promises.md",
+    "4 - Liminal Core/30. Programming/JavaScript/Async-Await.md",
     "commits.sh",
     "1 - Rough Notes/Things to look into.md",
     "4 - Liminal Core/Useful websites.md",
@@ -191,9 +195,6 @@
     "4 - Liminal Core/10. Computer Science/linear data structures.md",
     "4 - Liminal Core/30. Programming/Assembly/caller and callee.md",
     "4 - Liminal Core/30. Programming/Assembly/abstract data type.md",
-    "4 - Liminal Core/10. Computer Science/array.md",
-    "4 - Liminal Core/30. Programming/Assembly/ESP.md",
-    "4 - Liminal Core/30. Programming/Assembly/EBP.md",
     "4 - Liminal Core/30. Programming/JavaScript",
     "4 - Liminal Core/30. Programming/SQL",
     "4 - Liminal Core/10. Computer Science/babies",
@@ -202,7 +203,6 @@
     "4 - Liminal Core/20. Operating Systems/NixOS",
     "4 - Liminal Core/20. Operating Systems",
     "5 - Templates",
-    "4 - Liminal Core",
-    "3 - Kategorien"
+    "4 - Liminal Core"
   ]
 }
