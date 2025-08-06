@@ -5,7 +5,7 @@ Tags: [[JavaScript]]
 ------------------------------------------------
 
 ##### Overview:
-an object that waits for an asynchronous operation to finish and executes a function based on the outcome.
+an object that waits for an asynchronous operation to finish and executes a function based on the outcome. It always has an if..else part that decides based on the given condition for "if" what to do, `resolve(value)` resolves the Promise with the given value and reject(errorObj) sets the value to the error given. 
 
 [[Synchronous-Asynchronous]]
 
