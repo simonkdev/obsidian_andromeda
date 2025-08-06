@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "26a3913c9ce3e711",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd904b4ef25147ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed65c7ae8cfcc36d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba84c89376c48e70",
+    "type": "split",
+    "children": [
+      {
+        "id": "867b450474125e33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b45d443910220d8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b4513b8ce5dfd2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c71f3c315efa4ab0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b50b56aeb39875a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2c17867204791e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "822e461ed58b3e3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4 - Liminal Core/10. Computer Science/stack frames.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for stack frames"
+            }
+          },
+          {
+            "id": "6ed2be26cac9de43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4 - Liminal Core/10. Computer Science/stack frames.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from stack frames"
+            }
+          },
+          {
+            "id": "c5d945ec36adb649",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dd2dfb0a93b55e22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4 - Liminal Core/10. Computer Science/stack frames.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of stack frames"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "ed65c7ae8cfcc36d",
+  "lastOpenFiles": [
+    "commits.sh",
+    "1 - Rough Notes/Things to look into.md",
+    "4 - Liminal Core/Useful websites.md",
+    "4 - Liminal Core/10. Computer Science/01 - Introduction.md",
+    "Untitled.canvas",
+    "4 - Liminal Core/10. Computer Science/babies/abstract data type.md",
+    "Excalidraw/Drawing 2025-06-16 16.16.24.excalidraw.md",
+    "2 - Tags/data types.md",
+    "4 - Liminal Core/10. Computer Science/babies/EBP.md",
+    "4 - Liminal Core/30. Programming/Assembly/linear data structures.md",
+    "4 - Liminal Core/10. Computer Science/babies/ESP.md",
+    "4 - Liminal Core/10. Computer Science/babies/kernel.md",
+    "4 - Liminal Core/10. Computer Science/cross-compilers.md",
+    "2 - Tags/Operating Systems.md",
+    "2 - Tags/programming.md",
+    "4 - Liminal Core/30. Programming/SQL/triggers.md",
+    "4 - Liminal Core/30. Programming/SQL/managing a table.md",
+    "2 - Tags/SQL.md",
+    "4 - Liminal Core/30. Programming/Assembly/stack.md",
+    "4 - Liminal Core/array.md",
+    "4 - Liminal Core/10. Computer Science/babies/array.md",
+    "4 - Liminal Core/10. Computer Science/linear data structures.md",
+    "4 - Liminal Core/30. Programming/Assembly/caller and callee.md",
+    "4 - Liminal Core/30. Programming/Assembly/abstract data type.md",
+    "4 - Liminal Core/10. Computer Science/array.md",
+    "4 - Liminal Core/30. Programming/Assembly/ESP.md",
+    "4 - Liminal Core/30. Programming/Assembly/EBP.md",
+    "4 - Liminal Core/30. Programming/JavaScript",
+    "4 - Liminal Core/30. Programming/SQL",
+    "4 - Liminal Core/10. Computer Science/babies",
+    "4 - Liminal Core/30. Programming/Assembly",
+    "4 - Liminal Core/30. Programming",
+    "4 - Liminal Core/20. Operating Systems/NixOS",
+    "4 - Liminal Core/20. Operating Systems",
+    "5 - Templates",
+    "4 - Liminal Core",
+    "3 - Kategorien"
+  ]
+}
