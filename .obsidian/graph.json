@@ -1,0 +1,100 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:JavaScript",
+      "color": {
+        "a": 1,
+        "rgb": 16771860
+      }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/30. Programming/JavaScript\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16760120
+      }
+    },
+    {
+      "query": "file:nixOS",
+      "color": {
+        "a": 1,
+        "rgb": 13311
+      }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/20. Operating Systems/NixOS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4713215
+      }
+    },
+    {
+      "query": "file:computer science",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "file:programming",
+      "color": {
+        "a": 1,
+        "rgb": 13121776
+      }
+    },
+    {
+      "query": "file:Assembly",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/30. Programming/Assembly\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16729927
+      }
+    },
+    {
+      "query": "file:SQL",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/30. Programming/SQL\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16744692
+      }
+    },
+    {
+      "query": "file:Operating Systems",
+      "color": {
+        "a": 1,
+        "rgb": 37945
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.44690909090909,
+  "lineSizeMultiplier": 1.67963636363636,
+  "collapse-forces": false,
+  "centerStrength": 0.550352504638219,
+  "repelStrength": 13.5717996289425,
+  "linkStrength": 1,
+  "linkDistance": 119,
+  "scale": 0.3963369888158364,
+  "close": true
+}
