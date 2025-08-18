@@ -62,3 +62,4 @@ therefore, each of the printed variables is printed aligned to the left, then th
 ------------------------------------------------------
 ### References
 https://quickref.me/c
+[[Variables]]
