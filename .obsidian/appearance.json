@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
     "First level folder bg (Title only)"
-  ]
+  ],
+  "theme": "moonstone"
 }
