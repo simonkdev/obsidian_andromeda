@@ -83,6 +83,27 @@
         "a": 1,
         "rgb": 37945
       }
+    },
+    {
+      "query": "file:\"C Language\"",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/30. Programming/C\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5613763
+      }
+    },
+    {
+      "query": "file:\"Physics\"",
+      "color": {
+        "a": 1,
+        "rgb": 65310
+      }
     }
   ],
   "collapse-display": false,
