@@ -23,3 +23,4 @@ The pointer contains the address for the first character of the string and `prin
 ------------------------------------------------------
 ### References
 https://quickref.me/c
+[[Variables]] [[4 - Liminal Core/30. Programming/C/Data Types|Data Types]] 
