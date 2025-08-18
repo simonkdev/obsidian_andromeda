@@ -17,3 +17,5 @@ like in python, putting `const` before the data type of a variable makes it a co
 
 ------------------------------------------------------
 ### References
+https://quickref.me
+[[4 - Liminal Core/30. Programming/C/Data Types|Data Types]]
