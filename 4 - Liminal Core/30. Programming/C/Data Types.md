@@ -1,6 +1,6 @@
 2025-08-18 12:08
 
-Tags: 
+Tags: [[C Language]]
 
 ------------------------------------------------
 ##### Basic types:
@@ -9,6 +9,8 @@ Tags:
 `float` --> small decimal number (kl. anzahl an stellen)
 `double` --> big decimal number (gr. anzahl an stellen)
 `char` --> character
+`string` --> not directly available, written as 
+			`char name[] = "string"`
 
 ##### Derived data types:
 
