@@ -11,10 +11,14 @@
             "id": "ed65c7ae8cfcc36d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "4 - Liminal Core/30. Programming/C/Data Types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Types"
             }
           }
         ]
@@ -167,6 +171,11 @@
   },
   "active": "ed65c7ae8cfcc36d",
   "lastOpenFiles": [
+    "4 - Liminal Core/30. Programming/C/Variables.md",
+    "4 - Liminal Core/30. Programming/C/Data Types.md",
+    "4 - Liminal Core/30. Programming/C/Basics.md",
+    "4 - Liminal Core/30. Programming/SQL/managing a table.md",
+    "4 - Liminal Core/30. Programming/C",
     "4 - Liminal Core/30. Programming/JavaScript/Requests.md",
     "4 - Liminal Core/30. Programming/JavaScript/Error Handling.md",
     "4 - Liminal Core/30. Programming/JavaScript/Promises.md",
@@ -187,14 +196,10 @@
     "2 - Tags/Operating Systems.md",
     "2 - Tags/programming.md",
     "4 - Liminal Core/30. Programming/SQL/triggers.md",
-    "4 - Liminal Core/30. Programming/SQL/managing a table.md",
     "2 - Tags/SQL.md",
     "4 - Liminal Core/30. Programming/Assembly/stack.md",
     "4 - Liminal Core/array.md",
     "4 - Liminal Core/10. Computer Science/babies/array.md",
-    "4 - Liminal Core/10. Computer Science/linear data structures.md",
-    "4 - Liminal Core/30. Programming/Assembly/caller and callee.md",
-    "4 - Liminal Core/30. Programming/Assembly/abstract data type.md",
     "4 - Liminal Core/30. Programming/JavaScript",
     "4 - Liminal Core/30. Programming/SQL",
     "4 - Liminal Core/10. Computer Science/babies",
@@ -202,7 +207,6 @@
     "4 - Liminal Core/30. Programming",
     "4 - Liminal Core/20. Operating Systems/NixOS",
     "4 - Liminal Core/20. Operating Systems",
-    "5 - Templates",
-    "4 - Liminal Core"
+    "5 - Templates"
   ]
 }
