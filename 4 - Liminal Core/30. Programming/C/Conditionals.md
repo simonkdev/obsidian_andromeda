@@ -30,6 +30,8 @@ They are basically the same as in JavaScript.
 		`dayName = "other day";`
 `}`
 
+**HINT**: When you wanna do a switch with Strings, you have to use `strcmp()` and `if..else` chains because switches only support int-like data types
+
 
 ------------------------------------------------------
 ### References
