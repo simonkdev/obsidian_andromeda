@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b2ba506d530c5541",
+        "id": "5e279e14e677822a",
         "type": "tabs",
         "children": [
           {
-            "id": "03486bdbdada5ee9",
+            "id": "fd612efe86f41eb9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Liminal Core/30. Programming/C/Variables.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Variables"
+              "title": "New tab"
             }
           }
         ]
@@ -160,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,37 +166,39 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "03486bdbdada5ee9",
+  "active": "fd612efe86f41eb9",
   "lastOpenFiles": [
+    "4 - Liminal Core/10. Computer Science/Memory and Pointers.md",
+    "4 - Liminal Core/10. Computer Science/paged memory allocation.md",
+    "Pasted image 20250819143741.png",
+    "4 - Liminal Core/10. Computer Science/segmented memory allocation.md",
+    "Pasted image 20250819140843.png",
+    "Pasted image 20250819135844.png",
+    "4 - Liminal Core/10. Computer Science/hexadecimal notation.md",
+    "4 - Liminal Core/20. Operating Systems/kernel.md",
+    "4 - Liminal Core/10. Computer Science/CPU architectures.md",
+    "4 - Liminal Core/30. Programming/Assembly/registry.md",
+    "4 - Liminal Core/10. Computer Science/ASCII.md",
+    "4 - Liminal Core/10. Computer Science/01 - Introduction.md",
+    "4 - Liminal Core/10. Computer Science/CPU.md",
+    "4 - Liminal Core/10. Computer Science/UTF-8.md",
+    "4 - Liminal Core/10. Computer Science/CPU states.md",
     "4 - Liminal Core/30. Programming/C/Strings.md",
-    "4 - Liminal Core/30. Programming/C/Loops.md",
-    "4 - Liminal Core/30. Programming/C/Data Types.md",
-    "4 - Liminal Core/30. Programming/C/Console Printing.md",
-    "4 - Liminal Core/30. Programming/C/Conditionals.md",
-    "4 - Liminal Core/30. Programming/C/Basics.md",
     "4 - Liminal Core/30. Programming/C/Arrays.md",
+    "4 - Liminal Core/30. Programming/C/User Input.md",
+    "4 - Liminal Core/30. Programming/C/Variables.md",
+    "4 - Liminal Core/30. Programming/C/Conditionals.md",
+    "4 - Liminal Core/30. Programming/C/Enums.md",
+    "4 - Liminal Core/30. Programming/C/Data Types.md",
+    "4 - Liminal Core/10. Computer Science/cross-compilers.md",
+    "4 - Liminal Core/30. Programming/C/Loops.md",
+    "4 - Liminal Core/30. Programming/C/Console Printing.md",
+    "4 - Liminal Core/30. Programming/C/Basics.md",
     "2 - Tags/Operating Systems.md",
     "2 - Tags/C Language.md",
-    "2 - Tags/Assembly.md",
-    "4 - Liminal Core/30. Programming/C/Variables.md",
-    "2 - Tags/nixOS.md",
-    "2 - Tags/JavaScript.md",
-    "2 - Tags/computer science.md",
-    "4 - Liminal Core/30. Programming/SQL/managing a table.md",
     "4 - Liminal Core/30. Programming/C",
-    "4 - Liminal Core/30. Programming/JavaScript/Requests.md",
-    "4 - Liminal Core/30. Programming/JavaScript/Error Handling.md",
-    "4 - Liminal Core/30. Programming/JavaScript/Promises.md",
-    "4 - Liminal Core/30. Programming/JavaScript/Async-Await.md",
     "commits.sh",
-    "1 - Rough Notes/Things to look into.md",
-    "4 - Liminal Core/Useful websites.md",
-    "4 - Liminal Core/10. Computer Science/01 - Introduction.md",
     "Untitled.canvas",
-    "4 - Liminal Core/10. Computer Science/babies/abstract data type.md",
-    "Excalidraw/Drawing 2025-06-16 16.16.24.excalidraw.md",
-    "2 - Tags/data types.md",
-    "4 - Liminal Core/10. Computer Science/babies/EBP.md",
     "4 - Liminal Core/30. Programming/JavaScript",
     "4 - Liminal Core/30. Programming/SQL",
     "4 - Liminal Core/10. Computer Science/babies",
