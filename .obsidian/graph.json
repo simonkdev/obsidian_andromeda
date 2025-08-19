@@ -104,18 +104,25 @@
         "a": 1,
         "rgb": 65310
       }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/10. Computer Science\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9294798
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.44690909090909,
+  "nodeSizeMultiplier": 1.67963636363636,
   "lineSizeMultiplier": 1.67963636363636,
   "collapse-forces": false,
-  "centerStrength": 0.550352504638219,
-  "repelStrength": 13.5717996289425,
+  "centerStrength": 0.597847866419295,
+  "repelStrength": 15.2801484230056,
   "linkStrength": 1,
-  "linkDistance": 119,
+  "linkDistance": 88,
   "scale": 0.23898732727156835,
   "close": true
 }
