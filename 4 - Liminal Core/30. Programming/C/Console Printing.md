@@ -21,6 +21,8 @@ there are format specifiers for different types of variables:
 	`%p --> hexadecimal pointer address`
 in case a literal % character is needed, it is written as `%%`
 
+*HINT:* a pointer is 8 bytes, a hexadecimal int is 4. so if you print a pointer with the format specifier for a hexadecimal, it only outputs the first 4 bytes of an 8 byte value, making the output wrong.
+
 Example:
 
 `int main() {`
@@ -54,9 +56,7 @@ broken down:
 `-` --> align to left (without, it would be to the right)
 `9` --> occupy 9 characters (if less, it is filled up with spaces)
 
-therefore, each of the printed variables is printed aligned to the left, then the remaining of the 9 slots are filled with spaces, and then there is the next number. In a longer form, it gives you an output like this:
-
-
+therefore, each of the printed variables is printed aligned to the left, then the remaining of the 9 slots are filled with spaces, and then there is the next number. 
 
 
 ------------------------------------------------------
