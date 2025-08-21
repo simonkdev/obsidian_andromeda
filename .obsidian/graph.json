@@ -39,7 +39,7 @@
       "query": "file:computer science",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 7001692
       }
     },
     {
@@ -81,7 +81,7 @@
       "query": "file:Operating Systems",
       "color": {
         "a": 1,
-        "rgb": 37945
+        "rgb": 14810997
       }
     },
     {
@@ -109,7 +109,42 @@
       "query": "path:\"4 - Liminal Core/10. Computer Science\"  ",
       "color": {
         "a": 1,
-        "rgb": 9294798
+        "rgb": 9294734
+      }
+    },
+    {
+      "query": "file:mathematics",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/50.Mathematics/00. Linear Algebra\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048466
+      }
+    },
+    {
+      "query": "file:linear algebra",
+      "color": {
+        "a": 1,
+        "rgb": 11796710
+      }
+    },
+    {
+      "query": "file:spezielle rela",
+      "color": {
+        "a": 1,
+        "rgb": 8236991
+      }
+    },
+    {
+      "query": "path:Excalidraw/Relativitätstheorie  ",
+      "color": {
+        "a": 1,
+        "rgb": 5681597
       }
     }
   ],
@@ -123,6 +158,6 @@
   "repelStrength": 15.2801484230056,
   "linkStrength": 1,
   "linkDistance": 88,
-  "scale": 0.23898732727156835,
-  "close": true
+  "scale": 0.22460148646479808,
+  "close": false
 }
