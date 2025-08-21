@@ -9,11 +9,9 @@ For most data types, this location is received by using the prefix "&", for exam
 `scanf("%f", &price);`
 However, since the names of arrays (and therefore strings) are already pointers to their location (outlined in [[Strings]] and [[4 - Liminal Core/30. Programming/C/Arrays|Arrays]]), you leave out the prefix:
 `scanf("%s", string);`
-
-
-
-
+*HINT:* it might work if you add the & operator in front but some compilers will warn about it and technically it is the pointer to the array, not the first character of the array, so it is not the type that is expected for the `%s` format specifier.
 
 
 ------------------------------------------------------
 ### References
+https://quickref.me
