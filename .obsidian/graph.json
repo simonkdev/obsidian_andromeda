@@ -106,13 +106,6 @@
       }
     },
     {
-      "query": "path:\"4 - Liminal Core/10. Computer Science\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 9294734
-      }
-    },
-    {
       "query": "file:mathematics",
       "color": {
         "a": 1,
@@ -146,6 +139,20 @@
         "a": 1,
         "rgb": 5681597
       }
+    },
+    {
+      "query": "file:machine learning",
+      "color": {
+        "a": 1,
+        "rgb": 15511929
+      }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/10. Computer Science/00. Machine Learning\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13410702
+      }
     }
   ],
   "collapse-display": false,
@@ -158,6 +165,6 @@
   "repelStrength": 15.2801484230056,
   "linkStrength": 1,
   "linkDistance": 88,
-  "scale": 0.22460148646479808,
-  "close": true
+  "scale": 0.14973432430986539,
+  "close": false
 }
