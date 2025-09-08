@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Liminal Core/10. Computer Science/00. Machine Learning/Unsupervised Learning.md",
+                "file": "4 - Liminal Core/50.Mathematics/00. Linear Algebra/capital sigma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unsupervised Learning"
+              "title": "capital sigma"
             }
           }
         ]
@@ -170,12 +170,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b45d443910220d8a",
+  "active": "5e8c31c0dadfbcf1",
   "lastOpenFiles": [
+    "4 - Liminal Core/50.Mathematics/00. Linear Algebra/matrices.md",
+    "4 - Liminal Core/50.Mathematics/00. Linear Algebra/capital sigma.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/Unsupervised Learning.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/Clustering Algorithm.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/Classification Algorithm.md",
     "6 - Images/2025-09-08-111407_hyprshot.png",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/Unsupervised Learning.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/Regression Algorithm.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/Definition.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/Supervised Learning.md",
@@ -211,7 +213,6 @@
     "4 - Liminal Core/10. Computer Science/hexadecimal notation.md",
     "4 - Liminal Core/10. Computer Science/Memory and Pointers.md",
     "4 - Liminal Core/10. Computer Science/paged memory allocation.md",
-    "4 - Liminal Core/10. Computer Science/segmented memory allocation.md",
     "4 - Liminal Core/30. Programming/C",
     "commits.sh",
     "Untitled.canvas",
