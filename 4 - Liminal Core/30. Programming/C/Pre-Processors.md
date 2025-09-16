@@ -50,8 +50,10 @@ Tags: [[C Language]]
 ##### Extras:
 - the `defined()` operator: 
 	by using defined() in a conditional block, you can check if a macro is defined. Inverting via `!` is supported.
-
-
+- tag paste operator (##):
+	enables you to paste an argument within a macro. For example:
+`#define tokenpaster(n) printf ("token" #n " = %d", token##n)`
+	Here, the argument n is pasted as if it were written into the code, hence if we pass n as 4, it will reference the variable `token4`
 
 
 
