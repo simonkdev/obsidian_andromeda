@@ -9,7 +9,7 @@ $$\sum_{i=0}^{n}i$$
 i being the lower limit (starting point); n the upper limit and i the formula. This works the same as a for-loop in Java (oddly enough). In words, this means: for i from 0 to n, add the results of i. Or, as actual Java code:
 
 `int result = 0;`
-`for( int i = 0; i < n; i++) {`
+`for( int i = 0; i <= n; i++) {`
 	`result = result + i;`
 `}`
 `return result;`
