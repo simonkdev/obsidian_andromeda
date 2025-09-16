@@ -49,6 +49,16 @@ You multiply each value of one row with a factor (like vector scaling for one ro
 You can choose to replace a row with the sum of the row itself and one or more other rows. Rows not included in the sum may not be replaced by it.
 
 
+###### 4. Matrix multiplication:
+Um zwei Matrizen zu multiplizieren, müssen wir jeder Reihe der ersten Matrix eine Spalte der Zweiten zuordnen, die einander entsprechenden Elemente miteinander multiplizieren, und dann die Summen dieser Produkte bilden. 
+Damit dies möglich ist, müssen die Anzahl der Spalten der ersten Matrix und die Anzahl der Reihen der zweiten Matrix übereinstimmen. Die resultierende Matrix hat die Anzahl der Reihen der ersten Matrix und die Anzahl der Spalten der Zweiten.
+![[2025-09-11-165017_hyprshot.png]]
+(1,1) des Ergebnis resultiert aus Produktsumme von Reihe 1 (links) mit Spalte 1 (rechts). (1,2) des Ergebnis aus Reihe 1 und Spalte 2, usw usw usw.
+
+
+
+
+
 ------------------------------------------------------
 ### References
 https://www.youtube.com/watch?v=ZFVFtVbeerI
