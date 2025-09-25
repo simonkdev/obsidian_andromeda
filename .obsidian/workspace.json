@@ -11,14 +11,10 @@
             "id": "6d979f95538835f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Liminal Core/10. Computer Science/00. Machine Learning/Classification Algorithm.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Classification Algorithm"
+              "title": "New tab"
             }
           }
         ]
@@ -170,19 +166,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6d979f95538835f6",
+  "active": "b45d443910220d8a",
   "lastOpenFiles": [
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/Clustering Algorithm.md",
+    "Besprechung der Hausaufgabe S.157.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/Definition.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/Classification Algorithm.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/One-hot-encoding.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/Normalization.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/gradient descent.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/One-hot-encoding.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/Unsupervised Learning.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/Supervised Learning.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/Regression Algorithm.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/Real-World UVLR.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/Python - Numpy.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/Definition.md",
     "4 - Liminal Core/50.Mathematics/00. Linear Algebra/matrices.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/linear_regression_step_by_step.md",
     "2025-09-11-165017_hyprshot.png",
@@ -203,7 +200,6 @@
     "4 - Liminal Core/10. Computer Science/CPU.md",
     "Excalidraw/Relativitätstheorie",
     "Excalidraw/Relativitätstheorie/Drawing 2025-06-16 16.18.57.excalidraw.md",
-    "2 - Tags/Physics.md",
     "6 - Images/2025-08-20-183429_hyprshot.png",
     "4 - Liminal Core/50.Mathematics/00. Linear Algebra",
     "4 - Liminal Core/50.Mathematics",
