@@ -54,7 +54,7 @@ Um zwei Matrizen zu multiplizieren, müssen wir jeder Reihe der ersten Matrix ei
 Damit dies möglich ist, müssen die Anzahl der Spalten der ersten Matrix und die Anzahl der Reihen der zweiten Matrix übereinstimmen. Die resultierende Matrix hat die Anzahl der Reihen der ersten Matrix und die Anzahl der Spalten der Zweiten.
 ![[2025-09-11-165017_hyprshot.png]]
 (1,1) des Ergebnis resultiert aus Produktsumme von Reihe 1 (links) mit Spalte 1 (rechts). (1,2) des Ergebnis aus Reihe 1 und Spalte 2, usw usw usw.
-
+(genannt dot product)
 
 
 
