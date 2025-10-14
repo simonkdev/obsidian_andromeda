@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d2b098b5e8f0c5b4",
+        "id": "37428a3c9ee66f0e",
         "type": "tabs",
         "children": [
           {
-            "id": "5fd4044a401118d8",
+            "id": "bc86d063150aa731",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Liminal Core/10. Computer Science/00. Machine Learning/Note for next session.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Note for next session"
+              "title": "New tab"
             }
           }
         ]
@@ -170,11 +166,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5fd4044a401118d8",
+  "active": "bc86d063150aa731",
   "lastOpenFiles": [
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/logistic regression.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/gradient descent.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/AA. Universal Practices/regularization.md",
+    "2025-10-14-154830_hyprshot.png",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/AA. Universal Practices/Over- vs. Underfitting.md",
+    "6 - Images/generalized.png",
+    "6 - Images/overfit.png",
+    "6 - Images/underfit.png",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/Note for next session.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/logistic loss function.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/logistic regression.md",
     "6 - Images/2025-09-11-165017_hyprshot.png",
     "6 - Images/2025-09-27-153207_hyprshot.png",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Regression Algorithm.md",
@@ -187,7 +190,6 @@
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Clustering Algorithm.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Classification Algorithm.md",
     "6 - Images/2025-09-27-171335_hyprshot.png",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/gradient descent.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/AA. Universal Practices/Normalization.md",
     "6 - Images/2025-09-27-173006_hyprshot.png",
     "6 - Images/2025-09-27-172304_hyprshot.png",
@@ -205,15 +207,8 @@
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/linear_regression_step_by_step.md",
     "4 - Liminal Core/10. Computer Science/CPU architectures.md",
     "2 - Tags/Numpy.md",
-    "4 - Liminal Core/50.Mathematics/00. Linear Algebra/Untitled.md",
     "Untitled.canvas",
-    "4 - Liminal Core/2025-09-09.md",
-    "2 - Tags/data types.md",
-    "6 - Images/2025-09-08-111407_hyprshot.png",
-    "6 - Images/2025-09-08-110020_hyprshot.png",
-    "6 - Images/Pasted image 20250827173519.png",
     "Excalidraw/Relativitätstheorie",
-    "6 - Images/2025-08-20-183429_hyprshot.png",
     "4 - Liminal Core/50.Mathematics/00. Linear Algebra",
     "4 - Liminal Core/50.Mathematics",
     "6 - Images",
