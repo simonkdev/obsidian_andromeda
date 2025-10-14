@@ -45,7 +45,7 @@ Code:
 	`for i in range(m):`
 		`z = np.dot(X[i], w) + b`
 		`f_transformed = 1 / (1 + np.exp(-z))`
-		`cost = cost + ((-y[i] * np.log(f_transformed )) - (1-y[i] * np.log(f_transformed)))`
+		`cost = cost + ((-y[i] * np.log(f_transformed )) - (1-y[i] * np.log(1 - f_transformed)))`
 	`cost = cost / m`
 	`return cost`
 
