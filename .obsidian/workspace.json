@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "37428a3c9ee66f0e",
+        "id": "eeaa7aaa787e5ee4",
         "type": "tabs",
         "children": [
           {
-            "id": "bc86d063150aa731",
+            "id": "ca87f0ac9f188527",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Neural Networks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Neural Networks"
             }
           }
         ]
@@ -166,11 +170,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bc86d063150aa731",
+  "active": "b45d443910220d8a",
   "lastOpenFiles": [
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/neural network architecture.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Neural Networks.md",
+    "4 - Liminal Core/Optische Aktivität.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/gradient descent.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/AA. Universal Practices/regularization.md",
-    "2025-10-14-154830_hyprshot.png",
+    "6 - Images/2025-10-14-154830_hyprshot.png",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/AA. Universal Practices/Over- vs. Underfitting.md",
     "6 - Images/generalized.png",
     "6 - Images/overfit.png",
@@ -205,8 +212,6 @@
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Supervised Learning.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/AA. Universal Practices/Python - Numpy.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/linear_regression_step_by_step.md",
-    "4 - Liminal Core/10. Computer Science/CPU architectures.md",
-    "2 - Tags/Numpy.md",
     "Untitled.canvas",
     "Excalidraw/Relativitätstheorie",
     "4 - Liminal Core/50.Mathematics/00. Linear Algebra",
