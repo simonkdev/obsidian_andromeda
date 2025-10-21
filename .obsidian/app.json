@@ -26,5 +26,12 @@
     "editor:redo",
     "editor:configure-toolbar",
     "command-palette:open"
-  ]
+  ],
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
