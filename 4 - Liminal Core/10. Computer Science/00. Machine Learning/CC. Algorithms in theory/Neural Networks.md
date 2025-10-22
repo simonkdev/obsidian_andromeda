@@ -26,7 +26,8 @@ where:
 - $f()$ is the nonlinear activation function (e.g. the sigmoid function)
 
 
-
+**Forward Propagation**:
+refers to the action of data passing through a neural network
 
 
 ------------------------------------------------------
