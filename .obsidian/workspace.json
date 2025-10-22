@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Neural Networks.md",
+                "file": "Notes for course two.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neural Networks"
+              "title": "Notes for course two"
             }
           }
         ]
@@ -170,10 +170,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b45d443910220d8a",
+  "active": "ca87f0ac9f188527",
   "lastOpenFiles": [
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/neural network architecture.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Neural Networks.md",
+    "Notes for course two.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/inference.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/neural network architecture.md",
     "4 - Liminal Core/Optische Aktivität.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/gradient descent.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/AA. Universal Practices/regularization.md",
@@ -210,8 +212,6 @@
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Definition.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Unsupervised Learning.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Supervised Learning.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/AA. Universal Practices/Python - Numpy.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/linear_regression_step_by_step.md",
     "Untitled.canvas",
     "Excalidraw/Relativitätstheorie",
     "4 - Liminal Core/50.Mathematics/00. Linear Algebra",
