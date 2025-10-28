@@ -43,6 +43,8 @@ Für b:
 $$\frac{\delta J}{\delta b} = \frac{2}{n}\sum_{i=1}^n((m * x_i + b) -y_i)$$
 (Für m entsprechend mit x am ende multipliziert)
 *HINT: manchmal sieht man auch die Gesamtfehler-Formel mit $\frac{1}{2n}$ und die Gradients mit $\frac{1}{n}$, was rechnerisch identisch ist. Wichtig ist, keinen der Brüche doppelt zu verwenden.*
+![[Drawing 2025-10-28 16.38.35.excalidraw]]
+
 ##### Update-Formel:
 Die Update-Formel lautet wie folgt:
 Für m:
