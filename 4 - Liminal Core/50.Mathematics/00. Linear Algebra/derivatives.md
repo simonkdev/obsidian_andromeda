@@ -11,6 +11,14 @@ In der Theorie funktioniert das über das Zusammenziehen von zwei Punkten, durch
 gezogen wurde. In der Realität verwendet man Ableitungsregeln, um die Ableitungen vom Funktionsterm
 abzulesen.
 
+##### Derivative vs. slope:
+The derivative function, e.g.:
+$$f'(x) = \frac{d}{dx} = 2x$$
+is called the **derivative**.
+If we insert a value for x:
+$$f'(2) = \frac{d}{dx}(2) = 2 * 2 = 4$$
+That is the **slope** for the point at x = 2.
+
 ##### Theorie:
 Zwei beliebige Punkte auf dem Graphen, auf dem die Steigung ermittelt werden soll. 
 Der Punkt, für den die Steigung bestimmt werden soll ist der linkere Punkt. 
@@ -27,7 +35,9 @@ $$
 Anschließend wird gekürzt. Hier am Beispiel von $x²$:
 
 $$
-\quad f(x) = x^2
+\quad f(x) = x^2 
+$$
+$$
 f'(x) = \lim_{\Delta x \to 0} \frac{(x + \Delta x)^2 - x^2}{\Delta x}
 = \lim_{\Delta x \to 0} \frac{2x\Delta x + (\Delta x)^2}{\Delta x}
 = \lim_{\Delta x \to 0} (2x + \Delta x)
@@ -37,8 +47,9 @@ $$
 
 
 ##### Gradient descent-Bezug:
+[[partial derivatives]]
 
-![[Drawing 2025-10-28 16.38.35.excalidraw]]
+
 
 
 
