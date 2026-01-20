@@ -18,7 +18,7 @@ multiple layers. OxO
 
 ##### Mathematical layer:
 Each Layer can be represented as one vectorised function:
-$$z^{[l]} = W^{[l]}a^{[l - 1]}+B^{[l]};    a^{[l]} = f(z^{[l]})$$
+$$z^{[l]} = W^{[l]}a^{[l - 1]}+B^{[l]};    a^{[l]} = g(z^{[l]})$$
 where:
 - $W$ is the weight matrix of size (rows = count of neurons in the layer, columns = row count of previous' layers activation value vector (or input vector in the first layer))
 - $B$ is the bias matrix with size (amount of neurons, 1)
