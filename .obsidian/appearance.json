@@ -3,6 +3,6 @@
     "First level folder bg (Title only)"
   ],
   "theme": "obsidian",
-  "cssTheme": "mono black (monochrome, charcoal)",
-  "accentColor": "#912b2b"
+  "cssTheme": "Catppuccin",
+  "accentColor": "#671485"
 }
