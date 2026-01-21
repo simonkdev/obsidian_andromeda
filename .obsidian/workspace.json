@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e43155508514ddd9",
+        "id": "7f8602e643c1be21",
         "type": "tabs",
         "children": [
           {
-            "id": "01c40b2c419481ad",
+            "id": "1843ffceb6420387",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Liminal Core/40. Physics/Optical Neural Networks/interference.md",
+                "file": "4 - Liminal Core/40. Physics/interference.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,12 +170,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b45d443910220d8a",
+  "active": "1843ffceb6420387",
   "lastOpenFiles": [
+    "4 - Liminal Core/40. Physics/phases.md",
+    "4 - Liminal Core/40. Physics/Huygens-Fresnel principle.md",
+    "4 - Liminal Core/40. Physics/diffraction.md",
+    "Pasted image 20260121164036.png",
+    "Pasted image 20260121163652.png",
+    "4 - Liminal Core/40. Physics/interference.md",
+    "4 - Liminal Core/40. Physics/electromagnetic waves.md",
+    "Pasted image 20260121161837.png",
+    "Pasted image 20260121160824.png",
+    "Pasted image 20260121160704.png",
+    "Pasted image 20260121160537.png",
+    "Pasted image 20260121160451.png",
     "4 - Liminal Core/40. Physics/Optical Neural Networks/Mach-Zehnder Interferometer.md",
-    "4 - Liminal Core/40. Physics/Optical Neural Networks/interference.md",
-    "4 - Liminal Core/40. Physics/phases.md",
-    "4 - Liminal Core/40. Physics/phases.md",
+    "4 - Liminal Core/40. Physics/Optical Neural Networks/interference in optics.md",
     "2 - Tags/optical neural networks (ONN).md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Neural Networks.md",
     "4 - Liminal Core/40. Physics/Optical Neural Networks",
@@ -198,25 +208,13 @@
     "Excalidraw/Drawing 2025-11-07 19.43.58.excalidraw.md",
     "4 - Liminal Core/50.Mathematics/00. Linear Algebra/matrices.md",
     "Excalidraw/Drawing 2025-11-07 13.31.28.excalidraw.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/neural network architecture.md",
-    "4 - Liminal Core/50.Mathematics/00. Linear Algebra/gradients.md",
-    "4 - Liminal Core/50.Mathematics/00. Linear Algebra/derivatives.md",
-    "4 - Liminal Core/50.Mathematics/00. Linear Algebra/vectors.md",
-    "4 - Liminal Core/50.Mathematics/00. Linear Algebra/partial derivatives.md",
     "6 - Images/2025-10-14-154830_hyprshot.png",
     "6 - Images/generalized.png",
     "6 - Images/overfit.png",
-    "6 - Images/underfit.png",
-    "6 - Images/2025-09-11-165017_hyprshot.png",
-    "6 - Images/2025-09-27-153207_hyprshot.png",
-    "6 - Images/2025-09-27-155044_hyprshot.png",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/AA. Universal Practices",
-    "6 - Images/2025-09-27-171335_hyprshot.png",
-    "6 - Images/2025-09-27-173006_hyprshot.png",
-    "6 - Images/2025-09-27-172304_hyprshot.png",
     "Untitled.canvas",
     "Excalidraw/Relativitätstheorie"
   ]
