@@ -1,6 +1,6 @@
 2025-10-22 15:42
 
-Tags: [[machine learning]] [[Neural Networks]] 
+Tags: [[machine learning]] [[neural networks]] 
 
 ------------------------------------------------
 
