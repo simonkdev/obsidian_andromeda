@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7f8602e643c1be21",
+        "id": "ae4154f9afdba9f8",
         "type": "tabs",
         "children": [
           {
-            "id": "1843ffceb6420387",
+            "id": "a93eb4293cbb8405",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Liminal Core/40. Physics/interference.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "interference"
+              "title": "New tab"
             }
           }
         ]
@@ -170,24 +166,31 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1843ffceb6420387",
+  "active": "b45d443910220d8a",
   "lastOpenFiles": [
-    "4 - Liminal Core/40. Physics/phases.md",
-    "4 - Liminal Core/40. Physics/Huygens-Fresnel principle.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)",
+    "4 - Liminal Core/10. Computer Science/01. Hardware (abstract)",
+    "2 - Tags/ML architectures.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/EE. NNW Architectures/multilayer perceptron.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/neural networks.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/EE. NNW Architectures",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/Untitled.md",
+    "4 - Liminal Core/40. Physics/wave-particle duality.md",
+    "4 - Liminal Core/40. Physics/electromagnetic waves.md",
     "4 - Liminal Core/40. Physics/diffraction.md",
+    "4 - Liminal Core/40. Physics/Huygens-Fresnel principle.md",
+    "4 - Liminal Core/40. Physics/interference.md",
+    "4 - Liminal Core/40. Physics/phases.md",
     "Pasted image 20260121164036.png",
     "Pasted image 20260121163652.png",
-    "4 - Liminal Core/40. Physics/interference.md",
-    "4 - Liminal Core/40. Physics/electromagnetic waves.md",
     "Pasted image 20260121161837.png",
     "Pasted image 20260121160824.png",
     "Pasted image 20260121160704.png",
     "Pasted image 20260121160537.png",
     "Pasted image 20260121160451.png",
-    "4 - Liminal Core/40. Physics/Optical Neural Networks/Mach-Zehnder Interferometer.md",
+    "4 - Liminal Core/40. Physics/Mach-Zehnder Interferometer.md",
     "4 - Liminal Core/40. Physics/Optical Neural Networks/interference in optics.md",
     "2 - Tags/optical neural networks (ONN).md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Neural Networks.md",
     "4 - Liminal Core/40. Physics/Optical Neural Networks",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Clustering Algorithm.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Classification Algorithm.md",
@@ -205,17 +208,12 @@
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/gradient descent.md",
     "Excalidraw/Drawing 2025-11-08 22.41.58.excalidraw.md",
     "Excalidraw/Drawing 2025-11-07 19.43.58_0.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-07 19.43.58.excalidraw.md",
-    "4 - Liminal Core/50.Mathematics/00. Linear Algebra/matrices.md",
-    "Excalidraw/Drawing 2025-11-07 13.31.28.excalidraw.md",
     "6 - Images/2025-10-14-154830_hyprshot.png",
     "6 - Images/generalized.png",
     "6 - Images/overfit.png",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/AA. Universal Practices",
-    "Untitled.canvas",
-    "Excalidraw/Relativitätstheorie"
+    "Untitled.canvas"
   ]
 }
