@@ -5,27 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:JavaScript",
       "color": {
         "a": 1,
-        "rgb": 16771860
+        "rgb": 16777215
       }
     },
     {
       "query": "path:\"4 - Liminal Core/30. Programming/JavaScript\"  ",
       "color": {
         "a": 1,
-        "rgb": 16760120
+        "rgb": 14609432
       }
     },
     {
       "query": "file:nixOS",
       "color": {
         "a": 1,
-        "rgb": 13311
+        "rgb": 16777215
       }
     },
     {
@@ -39,21 +39,21 @@
       "query": "file:computer science",
       "color": {
         "a": 1,
-        "rgb": 7001692
+        "rgb": 16777215
       }
     },
     {
       "query": "file:programming",
       "color": {
         "a": 1,
-        "rgb": 13121776
+        "rgb": 16777215
       }
     },
     {
       "query": "file:Assembly",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 16777215
       }
     },
     {
@@ -67,7 +67,7 @@
       "query": "file:SQL",
       "color": {
         "a": 1,
-        "rgb": 14048429
+        "rgb": 16777215
       }
     },
     {
@@ -81,14 +81,14 @@
       "query": "file:Operating Systems",
       "color": {
         "a": 1,
-        "rgb": 14810997
+        "rgb": 16777215
       }
     },
     {
       "query": "file:\"C Language\"",
       "color": {
         "a": 1,
-        "rgb": 6073814
+        "rgb": 16777215
       }
     },
     {
@@ -102,7 +102,7 @@
       "query": "file:\"Physics\"",
       "color": {
         "a": 1,
-        "rgb": 65310
+        "rgb": 16777215
       }
     },
     {
@@ -116,7 +116,7 @@
       "query": "file:mathematics",
       "color": {
         "a": 1,
-        "rgb": 6053078
+        "rgb": 16777215
       }
     },
     {
@@ -130,14 +130,14 @@
       "query": "file:linear algebra",
       "color": {
         "a": 1,
-        "rgb": 11796710
+        "rgb": 16777215
       }
     },
     {
       "query": "file:spezielle rela",
       "color": {
         "a": 1,
-        "rgb": 8236991
+        "rgb": 16777215
       }
     },
     {
@@ -146,18 +146,25 @@
         "a": 1,
         "rgb": 5681597
       }
+    },
+    {
+      "query": "file:machine learning",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.67963636363636,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 2.24375,
   "lineSizeMultiplier": 1.67963636363636,
   "collapse-forces": false,
-  "centerStrength": 0.597847866419295,
-  "repelStrength": 15.2801484230056,
+  "centerStrength": 1,
+  "repelStrength": 15.1041666666667,
   "linkStrength": 1,
   "linkDistance": 88,
-  "scale": 0.11235439322282126,
+  "scale": 0.36290026283675336,
   "close": true
 }
