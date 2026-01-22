@@ -17,4 +17,4 @@ ESP and EBP are registries used for pointers addressing parts of the current sta
 ### References
 Registries in Assembly: [[registries 1]]  
 ESP / EBP: [[4 - Liminal Core/30. Programming/Assembly/ESP]] [[4 - Liminal Core/30. Programming/Assembly/EBP]] 
-Stack / Stack frame: [[stack]] [[stack frames 1]]
+Stack / Stack frame: [[4 - Liminal Core/30. Programming/Assembly/stack]] [[stack frames 1]]
