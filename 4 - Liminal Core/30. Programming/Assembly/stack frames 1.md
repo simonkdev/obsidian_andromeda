@@ -80,7 +80,7 @@ Step 6: the old base pointer is restored by deleting the current base pointer fr
 
 Copilot: https://copilot.microsoft.com/chats/8jxY72zvAeggds4FYLNHK
 Stack Overflow: https://stackoverflow.com/questions/3699283/what-is-stack-frame-in-assembly
-Stack: [[stack]]
+Stack: [[4 - Liminal Core/30. Programming/Assembly/stack]]
 ESP: [[4 - Liminal Core/30. Programming/Assembly/ESP]] 
 EBP: [[4 - Liminal Core/30. Programming/Assembly/EBP]] 
-Registries: [[registry]] 
+Registries: [[4 - Liminal Core/30. Programming/Assembly/registry]] 
