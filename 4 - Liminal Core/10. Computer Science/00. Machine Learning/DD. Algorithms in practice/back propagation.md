@@ -1,6 +1,6 @@
 2025-11-04 10:32
 
-Tags: [[machine learning]] [[Neural Networks]] [[gradient descent]]
+Tags: [[machine learning]] [[neural networks]] [[gradient descent]]
 
 ------------------------------------------------
 
@@ -8,7 +8,7 @@ Tags: [[machine learning]] [[Neural Networks]] [[gradient descent]]
 
 ##### Steps:
 1. calculate predicted value with given input, store 
-	(see [[Neural Networks]])
+	(see [[neural networks]])
 2. calculate derivatives for each parameter in each neuron on each layer, assemble in a matrix (matrix of gradients)
 	use the derivative of the cost function with respect to the current parameter, see below
 3. update all parameters at once
