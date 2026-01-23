@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:JavaScript",
@@ -149,6 +149,13 @@
     },
     {
       "query": "file:machine learning",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"2 - Tags\"  ",
       "color": {
         "a": 1,
         "rgb": 16777215
