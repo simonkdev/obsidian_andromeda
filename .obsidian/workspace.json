@@ -168,10 +168,6 @@
   },
   "active": "b73552f4d6340668",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "4 - Liminal Core/50.Mathematics/complex-valued functions.md",
-    "4 - Liminal Core/50.Mathematics/complex values.md",
-    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/sliding window operations.md",
     "Notes for course two.md",
     "6 - Images/Pasted image 20260121160537.png",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/EE. NNW Architectures/optical neural network (ONN).md",
@@ -199,7 +195,11 @@
     "2 - Tags/Numpy.md",
     "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)",
     "4 - Liminal Core/10. Computer Science/01. Hardware (abstract)",
+    "2 - Tags/ML architectures.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/EE. NNW Architectures",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/Untitled.md",
+    "4 - Liminal Core/40. Physics/wave-particle duality.md",
+    "4 - Liminal Core/40. Physics/electromagnetic waves.md",
     "6 - Images/Pasted image 20260121164036.png",
     "6 - Images/Pasted image 20260121163652.png",
     "6 - Images/Pasted image 20260121161837.png",
@@ -213,6 +213,7 @@
     "6 - Images/2025-10-14-154830_hyprshot.png",
     "6 - Images/generalized.png",
     "6 - Images/overfit.png",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice"
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice",
+    "Untitled.canvas"
   ]
 }
