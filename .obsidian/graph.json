@@ -5,18 +5,173 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:JavaScript",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/30. Programming/JavaScript\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14609432
+      }
+    },
+    {
+      "query": "file:nixOS",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/20. Operating Systems/NixOS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4713215
+      }
+    },
+    {
+      "query": "file:computer science",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "file:programming",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "file:Assembly",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/30. Programming/Assembly\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16729927
+      }
+    },
+    {
+      "query": "file:SQL",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/30. Programming/SQL\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16744692
+      }
+    },
+    {
+      "query": "file:Operating Systems",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "file:\"C Language\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/30. Programming/C\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5613763
+      }
+    },
+    {
+      "query": "file:\"Physics\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/10. Computer Science\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9294734
+      }
+    },
+    {
+      "query": "file:mathematics",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/50.Mathematics/00. Linear Algebra\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048466
+      }
+    },
+    {
+      "query": "file:linear algebra",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "file:spezielle rela",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:Excalidraw/Relativitätstheorie  ",
+      "color": {
+        "a": 1,
+        "rgb": 5681597
+      }
+    },
+    {
+      "query": "file:machine learning",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"2 - Tags\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 2.24375,
+  "lineSizeMultiplier": 1.67963636363636,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 1,
+  "repelStrength": 15.1041666666667,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 88,
   "scale": 0.36290026283675336,
   "close": true
 }
