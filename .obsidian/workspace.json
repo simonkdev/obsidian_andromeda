@@ -11,10 +11,14 @@
             "id": "b73552f4d6340668",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "4 - Liminal Core/50.Mathematics/00. Linear Algebra/matrices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "matrices"
             }
           }
         ]
@@ -166,8 +170,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b73552f4d6340668",
+  "active": "b45d443910220d8a",
   "lastOpenFiles": [
+    "4 - Liminal Core/50.Mathematics/00. Linear Algebra/hadamard product.md",
+    "4 - Liminal Core/matri.md",
+    "4 - Liminal Core/50.Mathematics/fourier transform.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/AA. Networking/physical layer.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/Untitled.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/AA. Networking",
     "Notes for course two.md",
     "6 - Images/Pasted image 20260121160537.png",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/EE. NNW Architectures/optical neural network (ONN).md",
@@ -192,14 +202,9 @@
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/AA. Universal Practices/Normalization.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/AA. Universal Practices/Feature Engineering.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/FF. Layer types",
-    "2 - Tags/Numpy.md",
     "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)",
     "4 - Liminal Core/10. Computer Science/01. Hardware (abstract)",
-    "2 - Tags/ML architectures.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/EE. NNW Architectures",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/Untitled.md",
-    "4 - Liminal Core/40. Physics/wave-particle duality.md",
-    "4 - Liminal Core/40. Physics/electromagnetic waves.md",
     "6 - Images/Pasted image 20260121164036.png",
     "6 - Images/Pasted image 20260121163652.png",
     "6 - Images/Pasted image 20260121161837.png",
@@ -213,7 +218,6 @@
     "6 - Images/2025-10-14-154830_hyprshot.png",
     "6 - Images/generalized.png",
     "6 - Images/overfit.png",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice",
     "Untitled.canvas"
   ]
 }
