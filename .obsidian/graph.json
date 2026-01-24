@@ -106,13 +106,6 @@
       }
     },
     {
-      "query": "path:\"4 - Liminal Core/10. Computer Science\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 9294734
-      }
-    },
-    {
       "query": "file:mathematics",
       "color": {
         "a": 1,
@@ -160,18 +153,46 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/10. Computer Science/00. Machine Learning\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11104511
+      }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/10. Computer Science/02. Concepts (abstract)\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10116412
+      }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/10. Computer Science/01. Hardware (abstract)\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4109894
+      }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/40. Physics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9123473
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.4,
-  "nodeSizeMultiplier": 2.24375,
+  "nodeSizeMultiplier": 2.6265625,
   "lineSizeMultiplier": 2.65208333333333,
   "collapse-forces": false,
   "centerStrength": 1,
-  "repelStrength": 15.1041666666667,
+  "repelStrength": 15.2083333333333,
   "linkStrength": 1,
-  "linkDistance": 88,
-  "scale": 0.4771433579255683,
+  "linkDistance": 30,
+  "scale": 0.45663829466251743,
   "close": true
 }
