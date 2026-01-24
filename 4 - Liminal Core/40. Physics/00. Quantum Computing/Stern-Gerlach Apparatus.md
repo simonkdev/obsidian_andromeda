@@ -38,3 +38,4 @@ of measurements on [[Spin]].
 ------------------------------------------------------
 ### References
 Quantum Computing for Everyone - Chris Bernhardt, MIT Press
+https://en.wikipedia.org/wiki/Stern%E2%80%93Gerlach_experiment
