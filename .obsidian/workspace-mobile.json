@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Liminal Core/10. Computer Science/paged memory allocation.md",
+                "file": "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/gradient descent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "paged memory allocation"
+              "title": "gradient descent"
             }
           }
         ]
@@ -86,8 +86,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "f502f2f0ddc9bf6c",
@@ -157,11 +156,13 @@
   },
   "active": "82661d8fc088cc4f",
   "lastOpenFiles": [
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/polynomial regression.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/gradient descent.md",
+    "4 - Liminal Core/10. Computer Science/paged memory allocation.md",
     "4 - Liminal Core/50.Mathematics/00. Linear Algebra/matrices.md",
     "Excalidraw/Drawing 2025-10-22 09.13.36.excalidraw.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Neural Networks.md",
     "4 - Liminal Core/Untitled.base",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/gradient descent.md",
     "4 - Liminal Core/50.Mathematics/00. Linear Algebra/vectors.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/Supervised Learning.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/Regression Algorithm.md",
