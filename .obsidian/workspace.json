@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Liminal Core/50.Mathematics/00. Linear Algebra/matrices.md",
+                "file": "4 - Liminal Core/40. Physics/00. Quantum Computing/Stern-Gerlach Apparatus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "matrices"
+              "title": "Stern-Gerlach Apparatus"
+            }
+          },
+          {
+            "id": "7750e530092b644d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,12 +181,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b45d443910220d8a",
+  "active": "7750e530092b644d",
   "lastOpenFiles": [
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/Stern-Gerlach Apparatus.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/bit.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/Spin.md",
+    "Pasted image 20260124115502.tmp.png",
+    "Drawing 2026-01-24 11.55.43.excalidraw.md",
+    "Pasted image 20260124115502.png",
+    "2 - Tags/quantum computing.md",
+    "4 - Liminal Core/40. Physics/02. Theory of relativity",
+    "4 - Liminal Core/40. Physics/01. Optics",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing",
+    "4 - Liminal Core/50.Mathematics/01. Complex plane/fourier transform.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/EE. NNW Architectures/opto-electric neural network.md",
+    "4 - Liminal Core/50.Mathematics/00. Linear Algebra/matrices.md",
     "4 - Liminal Core/50.Mathematics/01. Complex plane",
     "4 - Liminal Core/50.Mathematics/00. Linear Algebra/hadamard product.md",
     "4 - Liminal Core/matri.md",
-    "4 - Liminal Core/50.Mathematics/01. Complex plane/fourier transform.md",
     "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/AA. Networking/physical layer.md",
     "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/Untitled.md",
     "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/AA. Networking",
@@ -195,12 +218,6 @@
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Classification Algorithm.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/neural network architecture.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/inference.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Definition.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/AA. Universal Practices/Python - Numpy.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/AA. Universal Practices/regularization.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/AA. Universal Practices/Over- vs. Underfitting.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/AA. Universal Practices/One-hot-encoding.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/AA. Universal Practices/Normalization.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/FF. Layer types",
     "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)",
     "4 - Liminal Core/10. Computer Science/01. Hardware (abstract)",
@@ -211,13 +228,7 @@
     "6 - Images/Pasted image 20260121160824.png",
     "6 - Images/Pasted image 20260121160704.png",
     "Pasted image 20260121160451.png",
-    "4 - Liminal Core/40. Physics/Optical Neural Networks",
-    "4 - Liminal Core/Untitled 1.base",
-    "4 - Liminal Core/Untitled 2.base",
-    "4 - Liminal Core/Untitled 3.base",
     "6 - Images/2025-10-14-154830_hyprshot.png",
-    "6 - Images/generalized.png",
-    "6 - Images/overfit.png",
     "Untitled.canvas"
   ]
 }
