@@ -37,6 +37,29 @@ x_i = \braket{b_i | v}
 
 }$$
 
+### Length of vectors that are written as linear combinations:
+Just a handy formula for calculating the vector length of these linear combinations:
+$$ \displaylines {
+\ket{v} = \braket{ b_1 | v}\ket{b_1} + \braket{ b_2 | v}\ket{b_2} + \braket{ b_4 | v}\ket{b_3}+ \space .. \space  +\braket{ b_n | v}\ket{b_n}
+\newline
+\text{define: } \braket{b_i | v} = c_i
+\newline
+\ket{v} = c_1 \ket{b_1} + c_2 \ket{b_2} + c_3 \ket{b_3} + \space .. \space + c_n \ket{b_n}
+\newline
+\bra{v} = c_1 \bra{b_1} + c_2 \bra{b_2} + c_3 \bra{b_3} + \space .. \space + c_n \bra{b_n}
+\newline
+\rightrightarrows 
+\braket{v|v} = (c_1 \ket{b_1} + c_2 \ket{b_2} + c_3 \ket{b_3} + \space .. \space + c_n \ket{b_n})(c_1 \bra{b_1} + c_2 \bra{b_2} + c_3 \bra{b_3} + \space .. \space + c_n \bra{b_n})
+\newline
+\text{Since } \braket{b_i | b_k} = 0 \text{ if } i \ne k \text{ and } = 1 \text{ if } i = k:
+\newline
+\braket{v|v} = c_1² + c_2² + c_3² + \space .. \space + c_n²
+
+}$$
+
+
+
+
 
 
 
