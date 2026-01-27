@@ -19,8 +19,23 @@ $$ \displaylines{
 \ket{\leftarrow} = \begin{bmatrix} \frac{1}{\sqrt{2}} \\ \frac{1}{\sqrt{2}} \end{bmatrix} \newline
 \ket{\nearrow} = \begin{bmatrix} \frac{1}{2} \\ \frac{-\sqrt{3}}{2}\end{bmatrix} , \ket{\swarrow} = \begin{bmatrix} \frac{\sqrt{3}}{2} \\ \frac{1}{2}\end{bmatrix} \newline
 }$$
+### Notation:
+An orthonormal base is noted like this:
+$$
+\{ \ket{b_1}, \ket{b_2}, \ket{b_3}, \ket{b_4}, \ket{b_5}, \space ..\space , \ket{b_n} \}
+$$
+With n being the targeted dimension of the basis.
 
-
+### Ordered Bases:
+while the order of their elements does not matter  for normal bases, it does matter for ordered ones. To denote this, we simply exchange the curly brackets for parentheses:
+$$ \displaylines {
+\{ \ket{b}, \ket{a}\} = 
+\{ \ket{a}, \ket{b}\}
+\newline
+(\ket{a}, \ket{b}) \ne 
+(\ket{b}, \ket{a})
+}$$
+These become useful when we differ between measuring the [[spin]] of an electron with the South-magnet on top or bottom.
 
 
 
