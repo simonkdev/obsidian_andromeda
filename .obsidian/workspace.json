@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2de5e2b808e52e73",
+        "id": "51f9bc114e0eed52",
         "type": "tabs",
         "children": [
           {
-            "id": "bf57b1ee0a849736",
+            "id": "d1ac9bf97aeeae28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Liminal Core/40. Physics/00. Quantum Computing/Kets and Bras.md",
+                "file": "4 - Liminal Core/40. Physics/00. Quantum Computing/Entanglement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kets and Bras"
-            }
-          },
-          {
-            "id": "1f79c9c49fbf42ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Liminal Core/40. Physics/00. Quantum Computing/Vectors as linear combinations of orthonormal bases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vectors as linear combinations of orthonormal bases"
-            }
-          },
-          {
-            "id": "d986a7c11babfbed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Liminal Core/40. Physics/00. Quantum Computing/Orthonormal Bases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Orthonormal Bases"
+              "title": "Entanglement"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,13 +170,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1f79c9c49fbf42ec",
+  "active": "d1ac9bf97aeeae28",
   "lastOpenFiles": [
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/Orthonormal Bases.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/Kets and Bras.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/calculating ordered orthonormal basis for measurements.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/Entanglement.md",
     "4 - Liminal Core/40. Physics/00. Quantum Computing/Vectors as linear combinations of orthonormal bases.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/Stern-Gerlach Apparatus.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/Kets and Bras.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/mathematical model of photon polarisation.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/orthogonal and unitary matrices.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/mathematics of particle spin.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/matrices for orthonormal basis verification.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/Orthonormal Bases.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/Brakets in matrix products.md",
+    "4 - Liminal Core/50.Mathematics/00. Linear Algebra/capital sigma.md",
     "4 - Liminal Core/50.Mathematics/00. Linear Algebra/matrices.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/Stern-Gerlach Apparatus.md",
     "4 - Liminal Core/50.Mathematics/00. Linear Algebra/vectors.md",
     "4 - Liminal Core/40. Physics/00. Quantum Computing/Spin.md",
     "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/bit.md",
@@ -227,15 +206,7 @@
     "Notes for course two.md",
     "6 - Images/Pasted image 20260121160537.png",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/EE. NNW Architectures/optical neural network (ONN).md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/FF. Layer types/pooling layers.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/FF. Layer types/convolutional layers.md",
     "4 - Liminal Core/Untitled.base",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/EE. NNW Architectures/multilayer perceptron (MLP).md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/EE. NNW Architectures/convolutional neural network (CNN).md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Unsupervised Learning.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Supervised Learning.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Regression Algorithm.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/neural networks.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/FF. Layer types",
     "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)",
     "4 - Liminal Core/10. Computer Science/01. Hardware (abstract)",
