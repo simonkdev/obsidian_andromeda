@@ -56,6 +56,10 @@ Damit dies möglich ist, müssen die Anzahl der Spalten der ersten Matrix und di
 (1,1) des Ergebnis resultiert aus Produktsumme von Reihe 1 (links) mit Spalte 1 (rechts). (1,2) des Ergebnis aus Reihe 1 und Spalte 2, usw usw usw.
 (genannt dot product)
 
+###### 5. Identity matrices:
+A square matrix (size (n,n)) filled with zeros except for the diagonal line from top left to bottom right is called an Identity matrix. It is denoted by $I_n$.
+
+
 
 
 
