@@ -1,6 +1,6 @@
 2025-08-18 15:54
 
-Tags: [[C Language]]
+Tags: [[C Language]] [[programming]]
 
 ------------------------------------------------
 ##### General:
