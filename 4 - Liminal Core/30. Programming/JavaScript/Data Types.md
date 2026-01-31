@@ -1,6 +1,6 @@
 2025-08-05 12:26
 
-Tags: [[JavaScript]] 
+Tags: [[JavaScript]] [[programming]] 
 ------------------------------------------------
 ##### Available Types:
 
