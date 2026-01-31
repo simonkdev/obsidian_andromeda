@@ -1,6 +1,6 @@
 2025-08-06 16:23
 
-Tags: [[JavaScript]]
+Tags: [[JavaScript]] [[programming]]
 
 ------------------------------------------------
 ##### Overview:
