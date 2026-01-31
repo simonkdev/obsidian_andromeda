@@ -1,6 +1,6 @@
 2025-08-21 11:23
 
-Tags: [[C Language]]
+Tags: [[C Language]] [[programming]]
 
 ------------------------------------------------
 ##### Available preprocessors:
