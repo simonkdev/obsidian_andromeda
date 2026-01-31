@@ -1,6 +1,6 @@
 2025-08-19 15:37
 
-Tags: [[C Language]]
+Tags: [[C Language]] [[programming]]
 
 ------------------------------------------------
 ##### Arithmetic:
