@@ -1,6 +1,6 @@
 2025-03-08 14:04
 
-Tags: [[assembly]] [[computer science]] 
+Tags: [[Assembly]] [[programming]] [[computer science]] 
 
 ------------------------------------------------
 ##### Definition:
