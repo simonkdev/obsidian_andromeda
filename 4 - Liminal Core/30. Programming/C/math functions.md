@@ -1,6 +1,6 @@
 2025-09-09 09:59
 
-Tags: [[C Language]]
+Tags: [[C Language]] [[programming]]
 
 ------------------------------------------------
 ##### List of all functions:
