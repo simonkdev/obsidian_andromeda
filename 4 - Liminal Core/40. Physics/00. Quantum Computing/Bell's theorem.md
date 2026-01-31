@@ -30,3 +30,4 @@ With many, continuously more sophisticated approaches, the prediction based on t
 
 ------------------------------------------------------
 ### References
+Quantum Computing for Everyone - Chris Bernhardt, MIT Press
