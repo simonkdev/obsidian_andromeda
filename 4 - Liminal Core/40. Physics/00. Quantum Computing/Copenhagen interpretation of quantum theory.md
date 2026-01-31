@@ -26,3 +26,4 @@ This is another central idea of the Copenhagen interpretation: When you measure 
 
 ------------------------------------------------------
 ### References
+Quantum Computing for Everyone - Chris Bernhardt, MIT Press
