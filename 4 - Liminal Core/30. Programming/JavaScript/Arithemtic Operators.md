@@ -1,6 +1,6 @@
 2025-08-05 12:50
 
-Tags: [[JavaScript]]
+Tags: [[JavaScript]] [[programming]]
 
 ------------------------------------------------
 #### Available Operators:
