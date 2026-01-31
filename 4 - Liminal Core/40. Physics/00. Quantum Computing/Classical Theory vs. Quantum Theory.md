@@ -21,3 +21,4 @@ For example, measuring the [[Spin]] state of an electron determines the state by
 
 ------------------------------------------------------
 ### References
+Quantum Computing for Everyone - Chris Bernhardt, MIT Press
