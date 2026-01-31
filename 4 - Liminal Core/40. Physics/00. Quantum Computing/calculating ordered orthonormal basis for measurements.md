@@ -1,6 +1,6 @@
 2026-01-28 15:20
 
-Tags: [[Physics]] [[vectors]] [[mathematics]] [[quantum computing]] [[Spin]] [[mathematics of particle spin]]
+Tags: [[Physics]] [[vectors]] [[mathematics]] [[quantum computing]] [[Spin]] [[math of particle spin]]
 
 ------------------------------------------------
 
