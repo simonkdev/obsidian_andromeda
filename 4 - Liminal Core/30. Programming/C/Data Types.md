@@ -1,6 +1,6 @@
 2025-08-18 12:08
 
-Tags: [[C Language]]
+Tags: [[C Language]] [[programming]]
 
 ------------------------------------------------
 ##### Basic types:
