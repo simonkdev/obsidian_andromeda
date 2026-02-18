@@ -1,1 +1,1 @@
-[[stack]] [[stack frames]] 
+[[4 - Liminal Core/30. Programming/Assembly/stack]] [[4 - Liminal Core/30. Programming/Assembly/stack frames]] 
