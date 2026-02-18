@@ -17,7 +17,7 @@ $$H = \begin{bmatrix} \frac{1}{\sqrt2} & \frac{1}{\sqrt2}  \\ \frac{1}{\sqrt2}  
 
 
 
-
+c
 
 ------------------------------------------------------
 ### References
