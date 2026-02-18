@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "51f9bc114e0eed52",
+        "id": "b87b4c36b119e887",
         "type": "tabs",
         "children": [
           {
-            "id": "ee83384e03cde5ff",
+            "id": "c7a0a0c021f16b0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Liminal Core/40. Physics/00. Quantum Computing/BB. Math/orthogonal and unitary matrices.md",
+                "file": "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/CC. Operating System Development/Global Descriptor Table (GDT).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "orthogonal and unitary matrices"
+              "title": "Global Descriptor Table (GDT)"
+            }
+          },
+          {
+            "id": "fdcb4fb2027bae6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/CC. Operating System Development/Global Descriptor Table (GDT).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Global Descriptor Table (GDT)"
+            }
+          },
+          {
+            "id": "c802e152ba0e4b2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/babies/bit alignment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bit alignment"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,37 +199,40 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b45d443910220d8a",
+  "active": "fdcb4fb2027bae6c",
   "lastOpenFiles": [
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/babies/privilege level.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/CC. Operating System Development/Global Descriptor Table (GDT).md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/babies/bit alignment.md",
+    "6 - Images/Pasted image 20260218213938.png",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/babies/memory segment types.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/CC. Operating System Development/segmented memory allocation.md",
+    "2 - Tags/operating system development.md",
+    "4 - Liminal Core/30. Programming/caller and callee.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/linear data structures.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/BB. Computation/sliding window operations.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/babies/UTF-8.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/babies/registries in assembly.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/babies/kernel 1.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/babies/ESP 1.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/babies/EBP 1.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/babies/bit.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/babies/array 1.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/babies/ASCII.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/CC. Operating System Development/routines.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/CC. Operating System Development/stack frames.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/CC. Operating System Development/stack.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/CC. Operating System Development/registry.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/CC. Operating System Development/Memory and Pointers.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/CC. Operating System Development/hexadecimal notation.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/CC. Operating System Development/cross-compilers.md",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/CC. Operating System Development",
+    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/Untitled.md",
+    "Chemie 12.02.2026.md",
     "4 - Liminal Core/40. Physics/00. Quantum Computing/DD. Processes",
     "4 - Liminal Core/40. Physics/00. Quantum Computing/CC. Devices",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/CC.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/BB. Math/orthogonal and unitary matrices.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/AA. Concepts/Copenhagen interpretation of quantum theory.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/AA. Concepts/Classical Computation vs. Quantum Computation.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/BB. Math/Orthonormal Bases.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/DD. Processes/Pauli transforms.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/CC. Devices/Quantum Gates.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/DD. Processes/Quantum Teleportation.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/CC. Devices/Reversible Gates and Circuits.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/AA. Concepts/Spin.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/CC. Devices/Stern-Gerlach Apparatus.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/DD. Processes/Superdense Coding.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/CC. Devices/The Bell Circuit and Bell Basis.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/CC. Devices/The Hadamard Gate.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/CC. Devices/The Quantum CNOT Gate.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/BB. Math/Vectors as linear combinations of orthonormal bases.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/BB. Math/calculating ordered orthonormal basis for measurements.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/AA. Concepts/Bell's theorem.md",
     "4 - Liminal Core/40. Physics/00. Quantum Computing/BB. Math",
     "4 - Liminal Core/40. Physics/00. Quantum Computing/AA. Concepts",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/BB. Math/Brakets in matrix products.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/AA. Concepts/Classical Theory vs. Quantum Theory.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/AA. Concepts/Entanglement.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/BB. Math/Kets and Bras.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/BB. Math/math of particle spin.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/BB. Math/mathematical model of photon polarisation.md",
-    "4 - Liminal Core/40. Physics/00. Quantum Computing/BB. Math/matrices for orthonormal basis verification.md",
     "4 - Liminal Core/50.Mathematics/02. Boolean functions",
     "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/BB. Computation",
     "Pasted image 20260124115502.tmp.png",
@@ -208,8 +240,6 @@
     "4 - Liminal Core/40. Physics/02. Theory of relativity",
     "4 - Liminal Core/40. Physics/01. Optics",
     "4 - Liminal Core/40. Physics/00. Quantum Computing",
-    "4 - Liminal Core/50.Mathematics/01. Complex plane",
-    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/AA. Networking",
     "6 - Images/Pasted image 20260121160537.png",
     "6 - Images/Pasted image 20260121164036.png",
     "6 - Images/Pasted image 20260121163652.png",
@@ -217,7 +247,6 @@
     "6 - Images/Pasted image 20260121160824.png",
     "6 - Images/Pasted image 20260121160704.png",
     "Pasted image 20260121160451.png",
-    "6 - Images/2025-10-14-154830_hyprshot.png",
     "Untitled.canvas"
   ]
 }
