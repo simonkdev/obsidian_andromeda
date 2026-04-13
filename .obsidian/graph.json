@@ -181,6 +181,13 @@
         "a": 1,
         "rgb": 9123473
       }
+    },
+    {
+      "query": "path:\"4 - Liminal Core/10. Computer Science/03. Agentic AI\" \" ",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
     }
   ],
   "collapse-display": true,
@@ -193,6 +200,6 @@
   "repelStrength": 16.9791666666667,
   "linkStrength": 0.765625,
   "linkDistance": 30,
-  "scale": 0.36536095776017297,
+  "scale": 0.32408737496629353,
   "close": true
 }
