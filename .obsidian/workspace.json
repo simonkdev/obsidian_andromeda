@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/back propagation.md",
+                "file": "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/back propagation through time (bptt).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "back propagation"
+              "title": "back propagation through time (bptt)"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/gradient descent.md",
+                "file": "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/back propagation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gradient descent"
+              "title": "back propagation"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Liminal Core/10. Computer Science/stack frames.md",
+                "file": "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/back propagation through time (bptt).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of stack frames"
+              "title": "Outline of back propagation through time (bptt)"
             }
           },
           {
@@ -209,10 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce675d7b30f28be7",
+  "active": "94f5aa70b0107846",
   "lastOpenFiles": [
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/gradient descent.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/back propagation.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/back propagation through time (bptt).md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/gradient descent.md",
     "Excalidraw/Drawing 2026-05-14 21.59.00.excalidraw.md",
     "Untitled.base",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/EE. NNW Architectures/recurrent neural network (RNN).md",
@@ -237,7 +238,6 @@
     "2 - Tags/Assembly.md",
     "2 - Tags/assembly.md",
     "Sokratische Gesprächsführung.md",
-    "4 - Liminal Core/10. Computer Science/03. Agentic AI/Self-Criticism.md",
     "6 - Images/Pasted image 20260413122144.png",
     "4 - Liminal Core/10. Computer Science/03. Agentic AI",
     "4 - Liminal Core/50.Mathematics/03. Complex linear algebra",
