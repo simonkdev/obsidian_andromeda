@@ -8,13 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fd9665d1489ae70",
+            "id": "ce675d7b30f28be7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/back propagation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "back propagation"
+            }
+          },
+          {
+            "id": "d04a5bb7265d8915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/gradient descent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gradient descent"
             }
           }
         ]
@@ -160,13 +178,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "94f5aa70b0107846",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,11 +205,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fd9665d1489ae70",
+  "active": "ce675d7b30f28be7",
   "lastOpenFiles": [
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/gradient descent.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/back propagation.md",
+    "Excalidraw/Drawing 2026-05-14 21.59.00.excalidraw.md",
+    "Untitled.base",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/EE. NNW Architectures/recurrent neural network (RNN).md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/CC. Devices/The Quantum CNOT Gate.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/CC. Devices/Quantum Gates.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/CC. Devices/The Hadamard Gate.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/BB. Math/orthogonal and unitary matrices.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/BB. Math/Kets and Bras.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/BB. Math/math of particle spin.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/BB. Math/mathematical model of photon polarisation.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/AA. Concepts/Entanglement.md",
+    "4 - Liminal Core/40. Physics/00. Quantum Computing/AA. Concepts/Classical Theory vs. Quantum Theory.md",
     "4 - Liminal Core/10. Computer Science/03. Agentic AI/Reflection and Self-Criticism.md",
     "4 - Liminal Core/10. Computer Science/03. Agentic AI/Subgoal Decomposition.md",
     "4 - Liminal Core/10. Computer Science/03. Agentic AI/Tool APIs for agentic AI.md",
@@ -195,28 +238,14 @@
     "2 - Tags/assembly.md",
     "Sokratische Gesprächsführung.md",
     "4 - Liminal Core/10. Computer Science/03. Agentic AI/Self-Criticism.md",
-    "Untitled.base",
     "6 - Images/Pasted image 20260413122144.png",
     "4 - Liminal Core/10. Computer Science/03. Agentic AI",
-    "2 - Tags/C Language.md",
-    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/babies/kernel 1.md",
-    "4 - Liminal Core/50.Mathematics/03. Complex linear algebra/Hermitian Transpose.md",
-    "4 - Liminal Core/50.Mathematics/03. Complex linear algebra/Complex vectors and matrices.md",
-    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/CC. Operating System Development/Global Descriptor Table (GDT).md",
-    "2 - Tags/complex linear algebra.md",
     "4 - Liminal Core/50.Mathematics/03. Complex linear algebra",
-    "4 - Liminal Core/50.Mathematics/Untitled.md",
     "6 - Images/Pasted image 20260220223917.png",
     "6 - Images/Pasted image 20260219230513.png",
-    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/babies/Task State Segment (TSS).md",
     "6 - Images/Pasted image 20260220224427.png",
     "6 - Images/Pasted image 20260220223953.png",
-    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/babies/privilege level.md",
-    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/babies/bit alignment.md",
     "6 - Images/Pasted image 20260218213938.png",
-    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/babies/memory segment types.md",
-    "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/CC. Operating System Development/segmented memory allocation.md",
-    "2 - Tags/operating system development.md",
     "4 - Liminal Core/10. Computer Science/02. Concepts (abstract)/CC. Operating System Development",
     "4 - Liminal Core/40. Physics/00. Quantum Computing/DD. Processes",
     "4 - Liminal Core/40. Physics/00. Quantum Computing/CC. Devices",
