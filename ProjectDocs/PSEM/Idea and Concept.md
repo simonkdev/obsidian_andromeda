@@ -1,0 +1,10 @@
+### Origin story:
+The idea for this seminar sprung from an internship a friend and I had done at the Deutsches Institut für Luft- und Raumfahrt (short: DLR) and Orbitale Hochtechnologie Bremen (short: OHB). The main focus of our internship was a project of building model rockets. We were given components made from carton, a 3D-printed engien/fin mount and a plastic nose cone. Over two weeks, we built rockets according to a set of instructions. I enjoyed it so much I started modifying them with the goal of flying higher than they initially would. What I ended up with was a rocket of about half its inital size, with a significant weight reduction but the same predicted stability (according to an OpenRocket simulation I ran on it). This resulted in higher-than-usual power-to-weight ratio and boosted its apogee by about 65 meters. 
+
+### The Seminar:
+After the internship had ended, we had the idea of doing this again - but with a bigger rocket. Months of planning, E-Mails and finding a teacher at our school that would be willing to take responsibility for a bunch of teenagers shooting self-built rockets into the sky later and there it was: Our very own P-Seminar, named "Raketenbau" (Rocket construction). 
+We were lucky to have left a good impression during our internship and had convinced the DLR and OHB to partner with us. 
+
+### Partnership with MTG11b project
+The MTG11b project is another project at our school, where students build experiments to conduct in microgravity. This microgravity is reached using a sounding rocket, provided by the DLR. The students are from the Maria-Theresia-Gymnasium in Munich as well as our Otto-von-Taube-Gymnasium in Gauting, specifically class 11b.  
+Since our Seminar builds rockets, we came up with the idea of providing a big sounding rocket ourselves. It was pure coincidence that both of us happened to be in the same class that MTG11b was for (the 11b), meaning we worked on both the rocket and the experiments themselves. This is why we ultimately built big rockets.
