@@ -11,10 +11,14 @@
             "id": "35974250ec7f8345",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Reinforcement Learning.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Reinforcement Learning"
             }
           }
         ]
@@ -193,6 +197,14 @@
   },
   "active": "35974250ec7f8345",
   "lastOpenFiles": [
+    "Pasted image 20260719185741.png",
+    "Pasted image 20260719185734.png",
+    "Pasted image 20260719185336.png",
+    "Pasted image 20260719185213.png",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Supervised Learning.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Unsupervised Learning.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Reinforcement Learning.md",
+    "Untitled.md",
     "Untitled 1.base",
     "Excalidraw/Drawing 2026-07-19 14.09.28.excalidraw.md",
     "Untitled.base",
@@ -219,7 +231,6 @@
     "ProjectDocs/PSEM/PhaseI/Designing the small rockets.md",
     "ProjectDocs/PSEM/media/IMG-20260618-WA0004.jpg",
     "ProjectDocs/PSEM/media/IMG-20260428-WA0010.jpg",
-    "ProjectDocs/PSEM/PhaseIII/The final launch.md",
     "ProjectDocs/PSEM/media/launchfin_color_two.mp4",
     "launchfin_color_two.mp4.log",
     "ProjectDocs/PSEM/media/launchfin_color_one.mp4",
@@ -227,17 +238,11 @@
     "drohne_start_rehvaustmkII_eins.mp4",
     "ProjectDocs/PSEM/media/launchfin_black_drone.mp4",
     "launchfin_black_drone.mp4.log",
-    "ProjectDocs/PSEM/PhaseII/Test-launch day.md",
     "IMG-20260618-WA0004.tmp.jpg",
-    "ProjectDocs/PSEM/PhaseII/The big rocket.md",
-    "ProjectDocs/PSEM/PhaseII/Recovery system.md",
     "ProjectDocs/PSEM/media/IMG_20260620_122400_628.jpg",
     "ProjectDocs/PSEM/media/IMG_20260620_122349_972.jpg",
     "ProjectDocs/PSEM/media/23015_4-2624163774.jpg",
     "ProjectDocs/PSEM/media/ai-thinker-esp32-cam-development-board-500x500-2165399408.jpg",
-    "ProjectDocs/PSEM/media/esp32s3-sense-3117851621.jpg",
-    "ProjectDocs/PSEM/media/Screenshot_20260619_195150.png",
-    "ProjectDocs/PSEM/media/IMG-20251017-WA0002.jpg",
     "Untitled.canvas"
   ]
 }
