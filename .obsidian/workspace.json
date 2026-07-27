@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "189b41c82c3d6f51",
+        "id": "40e307efa8835e5c",
         "type": "tabs",
         "children": [
           {
-            "id": "35974250ec7f8345",
+            "id": "d13b8f78f114a1f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Reinforcement Learning.md",
+                "file": "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Definition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definition"
+            }
+          },
+          {
+            "id": "1d2ce69e8968b028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               },
@@ -21,7 +35,8 @@
               "title": "Reinforcement Learning"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,15 +210,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35974250ec7f8345",
+  "active": "1d2ce69e8968b028",
   "lastOpenFiles": [
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Unsupervised Learning.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Supervised Learning.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Reinforcement Learning.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Clustering Algorithm.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Classification Algorithm.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Regression Algorithm.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/back propagation.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/back propagation through time (bptt).md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/gradient descent.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/logistic loss function.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/logistic regression.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/polynomial regression.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Deep Learning.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Definition.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/inference.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/neural network architecture.md",
+    "Pasted image 20260726140234.png",
     "Pasted image 20260719185741.png",
     "Pasted image 20260719185734.png",
     "Pasted image 20260719185336.png",
     "Pasted image 20260719185213.png",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Supervised Learning.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Unsupervised Learning.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Reinforcement Learning.md",
     "Untitled.md",
     "Untitled 1.base",
     "Excalidraw/Drawing 2026-07-19 14.09.28.excalidraw.md",
@@ -217,18 +246,6 @@
     "4 - Liminal Core/40. Physics/01. Optics/diffraction.md",
     "4 - Liminal Core/40. Physics/01. Optics/Huygens-Fresnel principle.md",
     "4 - Liminal Core/40. Physics/01. Optics/interference.md",
-    "4 - Liminal Core/40. Physics/01. Optics/Mach-Zehnder Interferometer.md",
-    "4 - Liminal Core/40. Physics/01. Optics/phases.md",
-    "4 - Liminal Core/40. Physics/01. Optics/wave-particle duality.md",
-    "4 - Liminal Core/40. Physics/02. Theory of relativity/Spezielle Relativitätstheorie.md",
-    "4 - Liminal Core/20. Operating Systems/NixOS/Flakes.md",
-    "4 - Liminal Core/20. Operating Systems/kernel.md",
-    "4 - Liminal Core/20. Operating Systems/NixOS/Python Venvs.md",
-    "4 - Liminal Core/30. Programming/caller and callee.md",
-    "ProjectDocs/PSEM/PhaseI/First Launch.md",
-    "4 - Liminal Core/Useful websites.md",
-    "4 - Liminal Core/10. Computer Science/01. Hardware (abstract)/CPU.md",
-    "ProjectDocs/PSEM/PhaseI/Designing the small rockets.md",
     "ProjectDocs/PSEM/media/IMG-20260618-WA0004.jpg",
     "ProjectDocs/PSEM/media/IMG-20260428-WA0010.jpg",
     "ProjectDocs/PSEM/media/launchfin_color_two.mp4",
@@ -241,8 +258,6 @@
     "IMG-20260618-WA0004.tmp.jpg",
     "ProjectDocs/PSEM/media/IMG_20260620_122400_628.jpg",
     "ProjectDocs/PSEM/media/IMG_20260620_122349_972.jpg",
-    "ProjectDocs/PSEM/media/23015_4-2624163774.jpg",
-    "ProjectDocs/PSEM/media/ai-thinker-esp32-cam-development-board-500x500-2165399408.jpg",
     "Untitled.canvas"
   ]
 }
