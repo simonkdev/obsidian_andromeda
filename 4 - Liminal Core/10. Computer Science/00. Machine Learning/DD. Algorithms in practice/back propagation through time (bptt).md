@@ -1,6 +1,6 @@
 2026-05-23 22:34
 
-Tags: [[machine learning]] [[neural networks]] [[gradient descent]] [[back propagation]]
+Tags: [[machine learning]] [[Deep Learning]] [[gradient descent]] [[back propagation]]
 
 ------------------------------------------------
 
