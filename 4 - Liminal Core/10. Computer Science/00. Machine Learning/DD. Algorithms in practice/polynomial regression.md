@@ -22,8 +22,7 @@ you can also use the square root of your feature, which has a curve that rises s
 You can combine as many features as you like, with no limitations in the size of the exponents. Just remember to normalize them after so the algorithm still converges quickly.
 
 ##### Implementation:
-In pract<ice, polynomial regression is basically the same as linear regression except for adding features in the beginning. Also, if you want to plot it, do not use a line plot but rather a scatter-plot, as most of the time the data will not be in a sorted order and the line plots will zig-zag all over the place.
-
+In practice, polynomial regression is basically the same as linear regression except for adding features in the beginning. Also, if you want to plot it, do not use a line plot but rather a scatter-plot, as most of the time the data will not be in a sorted order and the line plots will zig-zag all over the place.
 
 
 
