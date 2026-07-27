@@ -1,6 +1,6 @@
 2025-11-04 10:32
 
-Tags: [[machine learning]] [[neural networks]] [[gradient descent]]
+Tags: [[machine learning]] [[Deep Learning]] [[gradient descent]]
 
 ------------------------------------------------
 ### General idea:
