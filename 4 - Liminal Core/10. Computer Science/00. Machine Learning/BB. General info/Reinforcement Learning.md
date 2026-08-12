@@ -10,7 +10,7 @@ The goal of reinforcement learning (RL) is to learn a policy $\pi$ that enables 
 ### Agent and Environment
 When trying to solve a problem using RL, the agent refers to the medium you want to leverage to control the environment. You could also say the agent is what you can directly influence, while the environment is what you ultimately want to change. 
 
-For example, if I want to teach a robot how to drive, I could define the problem as the robot's limbs being the agent: I can directly influence their movement, position and other actions like rotation, opening/closing etc. What I want to change is the car's movement, direction and speed. This requires the robot to actually know how to move its limbs correctly. If this is not given, I must define my problem differentlly. I could also define my problem in multiple, smaller programs. 
+For example, if I want to teach a robot how to drive, I could define the problem as the robot's limbs being the agent: I can directly influence their movement, position and other actions like rotation, opening/closing etc. What I want to change is the car's movement, direction and speed. This requires the robot to actually know how to move its limbs correctly. If this is not given, I must define my problem differently. I could also define my problem in multiple, smaller programs. 
 
 For the given example: 
 ![[Pasted image 20260719185336.png]]
@@ -46,17 +46,35 @@ and resolves to a probability (read as "probability of action a given the state 
 
 ### Rewards
 The reward for any timestep $t$ is defined as follows:
-$$G_t = r_t + yr_{t+1} + y²r_{t+2} + y³r_{t+3}...$$
-With $y$ being the "discount factor", defined as  $0 <= y <= 1$ 
+$$G_t = r_t + \gamma r_{t+1} + \gamma²r_{t+2} + \gamma³r_{t+3}...$$
+With $\gamma$ being the "discount factor", defined as  $0 <= y <= 1$ 
 A smaller value for this discount would result in distant future rewards being less relevant, while a discount of 1 would make all equal (only works for terminating episodes, else it would add up to infinity).
 
 
 ## Further concepts:
 
+### World models
+A world model "predicts" the next state and reward based on the current state and an action.
+To adjust for some randomness of the environment, it gives the probability of a next state and reward based on the current state and an action. It is denoted as follows:
+$$ p(s', r | s,a)
+$$
+Effectively, this tells the agent how the states and actions relate to each other and how the rewards work. Methods that do not rely on world models are called model-less algorithms.
 
 
 
 
+
+
+state (multiple values) needs to be mapped to action probabilities to maximize a known function G. Backprop but with derivative of G instead of L and "going the other direction"? (up, not down)
+
+
+### Value functions
+Value functions keep track of how much return you can expect given either a state the agent is in or an action to be executed in a given state. There are two value functions, the state-value function $V_\pi(s)$ and the action-value function $Q_\pi(s,a)$. 
+
+The value functions  term $V(s)$ is simply the action-value functions' results for that state weighed by their probabilites and averaged. Therefore:
+$$ V_\pi(s) = [\sum_a Q_\pi(s, a)*\pi(a | s) ] \space / \space N_a
+$$
+($N_a$ being the amount of possible actions)
 
 
 
