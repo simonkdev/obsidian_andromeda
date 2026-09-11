@@ -22,30 +22,6 @@
             }
           },
           {
-            "id": "3d4df6f0830ce907",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-08-12 11.36.54.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-08-12 11.36.54.excalidraw"
-            }
-          },
-          {
-            "id": "e389e281d4785eee",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-08-12 15.11.25.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-08-12 15.11.25.excalidraw"
-            }
-          },
-          {
             "id": "967ec16dab311a1f",
             "type": "leaf",
             "state": {
@@ -55,7 +31,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,41 +208,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d13b8f78f114a1f1",
+  "active": "967ec16dab311a1f",
   "lastOpenFiles": [
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/Proximal Policy Optimization.md",
-    "Pasted image 20260908122700.png",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/back propagation.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/back propagation through time (bptt).md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/polynomial regression.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Classification Algorithm.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Clustering Algorithm.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Policy gradient algorithm.md",
-    "Excalidraw/Drawing 2026-08-12 11.36.54.excalidraw.md",
     "Excalidraw/Drawing 2026-08-12 15.11.25.excalidraw.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Reinforcement Learning.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Definition.md",
-    "Excalidraw/Drawing 2026-08-12 11.36.38.excalidraw.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Unsupervised Learning.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Supervised Learning.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Regression Algorithm.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/gradient descent.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/logistic loss function.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/logistic regression.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Deep Learning.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/inference.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/neural network architecture.md",
+    "Excalidraw/Drawing 2026-08-12 11.36.54.excalidraw.md",
+    "4 - Liminal Core/10. Computer Science/array.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Policy gradient algorithm.md",
+    "Notes for course two.md",
+    "Excalidraw/Drawing 2026-09-11 18.51.56.excalidraw.md",
+    "4 - Liminal Core/Untitled.base",
+    "4 - Liminal Core/40. Physics/Spezielle Relativitätstheorie.md",
+    "4 - Liminal Core/10. Computer Science/stack.md",
+    "4 - Liminal Core/10. Computer Science/stack frames.md",
+    "4 - Liminal Core/10. Computer Science/stack (conflict_on_2025-06-22).md",
+    "4 - Liminal Core/10. Computer Science/segmented memory allocation.md",
+    "4 - Liminal Core/10. Computer Science/routines.md",
+    "4 - Liminal Core/10. Computer Science/registry.md",
+    "4 - Liminal Core/10. Computer Science/registries in assembly.md",
+    "4 - Liminal Core/10. Computer Science/paged memory allocation.md",
+    "4 - Liminal Core/10. Computer Science/linear data structures.md",
+    "4 - Liminal Core/10. Computer Science/kernel.md",
+    "4 - Liminal Core/10. Computer Science/hexadecimal notation.md",
+    "4 - Liminal Core/10. Computer Science/cross-compilers.md",
+    "4 - Liminal Core/10. Computer Science/caller and callee.md",
+    "4 - Liminal Core/10. Computer Science/babies/kernel.md",
+    "4 - Liminal Core/10. Computer Science/babies/array.md",
+    "4 - Liminal Core/10. Computer Science/babies/abstract data type.md",
+    "4 - Liminal Core/10. Computer Science/babies/ESP.md",
+    "4 - Liminal Core/10. Computer Science/babies/EBP.md",
+    "4 - Liminal Core/10. Computer Science/babies",
+    "4 - Liminal Core/10. Computer Science/abstract data type.md",
+    "Pasted image 20260908122700.png",
     "Pasted image 20260726140234.png",
     "Pasted image 20260719185741.png",
     "Pasted image 20260719185734.png",
     "Pasted image 20260719185336.png",
     "Pasted image 20260719185213.png",
-    "Untitled.md",
     "Untitled 1.base",
-    "Excalidraw/Drawing 2026-07-19 14.09.28.excalidraw.md",
     "Untitled.base",
-    "4 - Liminal Core/10. Computer Science/04. MPUs/Circuit Design.md",
-    "ProjectDocs/PSEM/PhaseIII/The final rocket(s).md",
     "4 - Liminal Core/10. Computer Science/04. MPUs",
     "ProjectDocs/PSEM/media/IMG-20260618-WA0004.jpg",
     "ProjectDocs/PSEM/media/IMG-20260428-WA0010.jpg",
@@ -274,8 +254,6 @@
     "ProjectDocs/PSEM/media/launchfin_color_one.mp4",
     "launchfin_color_one.mp4.log",
     "drohne_start_rehvaustmkII_eins.mp4",
-    "ProjectDocs/PSEM/media/launchfin_black_drone.mp4",
-    "launchfin_black_drone.mp4.log",
     "IMG-20260618-WA0004.tmp.jpg",
     "ProjectDocs/PSEM/media/IMG_20260620_122400_628.jpg",
     "Untitled.canvas"
