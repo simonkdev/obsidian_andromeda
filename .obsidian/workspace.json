@@ -20,6 +20,40 @@
               "icon": "lucide-file",
               "title": "Policy gradient algorithm"
             }
+          },
+          {
+            "id": "3d4df6f0830ce907",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-08-12 11.36.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-12 11.36.54.excalidraw"
+            }
+          },
+          {
+            "id": "e389e281d4785eee",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-08-12 15.11.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-12 15.11.25.excalidraw"
+            }
+          },
+          {
+            "id": "967ec16dab311a1f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -80,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.20703125
   },
   "right": {
     "id": "b50b56aeb39875a2",
@@ -199,22 +233,25 @@
   },
   "active": "d13b8f78f114a1f1",
   "lastOpenFiles": [
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Reinforcement Learning.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Policy gradient algorithm.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Definition.md",
-    "Excalidraw/Drawing 2026-08-12 11.36.54.excalidraw.md",
-    "Excalidraw/Drawing 2026-08-12 11.36.38.excalidraw.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Clustering Algorithm.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Unsupervised Learning.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Supervised Learning.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Classification Algorithm.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Regression Algorithm.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/Proximal Policy Optimization.md",
+    "Pasted image 20260908122700.png",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/back propagation.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/back propagation through time (bptt).md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/polynomial regression.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Classification Algorithm.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Clustering Algorithm.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Policy gradient algorithm.md",
+    "Excalidraw/Drawing 2026-08-12 11.36.54.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-12 15.11.25.excalidraw.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Reinforcement Learning.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Definition.md",
+    "Excalidraw/Drawing 2026-08-12 11.36.38.excalidraw.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Unsupervised Learning.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Supervised Learning.md",
+    "4 - Liminal Core/10. Computer Science/00. Machine Learning/CC. Algorithms in theory/Regression Algorithm.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/gradient descent.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/logistic loss function.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/logistic regression.md",
-    "4 - Liminal Core/10. Computer Science/00. Machine Learning/DD. Algorithms in practice/polynomial regression.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/Deep Learning.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/inference.md",
     "4 - Liminal Core/10. Computer Science/00. Machine Learning/BB. General info/neural network architecture.md",
@@ -230,9 +267,6 @@
     "4 - Liminal Core/10. Computer Science/04. MPUs/Circuit Design.md",
     "ProjectDocs/PSEM/PhaseIII/The final rocket(s).md",
     "4 - Liminal Core/10. Computer Science/04. MPUs",
-    "4 - Liminal Core/40. Physics/The Tragedy of Darth Plagueis the Wise.md",
-    "4 - Liminal Core/50.Mathematics/03. Complex linear algebra/Hermitian Transpose.md",
-    "4 - Liminal Core/40. Physics/01. Optics/electromagnetic waves.md",
     "ProjectDocs/PSEM/media/IMG-20260618-WA0004.jpg",
     "ProjectDocs/PSEM/media/IMG-20260428-WA0010.jpg",
     "ProjectDocs/PSEM/media/launchfin_color_two.mp4",
@@ -244,7 +278,6 @@
     "launchfin_black_drone.mp4.log",
     "IMG-20260618-WA0004.tmp.jpg",
     "ProjectDocs/PSEM/media/IMG_20260620_122400_628.jpg",
-    "ProjectDocs/PSEM/media/IMG_20260620_122349_972.jpg",
     "Untitled.canvas"
   ]
 }
